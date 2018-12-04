@@ -1,3 +1,4 @@
 <resources>
+    <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">63877d77-be8e-4394-97a1-fcb98006f876</string>
     <string name="app_name">FoodSurvey</string>
 </resources>
